@@ -122,7 +122,7 @@ CarbonVault/
 
 1. **Clone or navigate to the project directory**:
    ```bash
-   cd c:\Users\Abhaykumar\Downloads\CarbonVault
+   cd c:\Users\Downloads\CarbonVault
    ```
 
 2. **Install dependencies**:
