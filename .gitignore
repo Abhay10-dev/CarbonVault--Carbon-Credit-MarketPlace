@@ -1,0 +1,56 @@
+# Documents
+Docs/
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Vite
+.vite/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Testing / Coverage
+coverage/
+.nyc_output/
+
+# Cache
+.cache/
+.parcel-cache/
+.eslintcache
+
+# Temporary files
+tmp/
+temp/
+
+# Local mock / generated data
+*.local.json
+
+# TypeScript
+*.tsbuildinfo
